@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Sumit ✨
 
-🎓 3rd Year B.Tech CSE Student  
+🎓 4th Year B.Tech CSE Student  
 📊 Aspiring Data Scientist | Python | Machine Learning  
 
 ---
